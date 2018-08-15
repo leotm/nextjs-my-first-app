@@ -1,0 +1,47 @@
+# OSX
+.tmp
+.DS_Store
+.next
+
+# Windows
+Thumbs.db
+
+# js
+npm-debug.*
+node_modules
+
+# dotnet
+.vs
+*.mdf
+*.ldf
+*.obj
+*.exe
+*.pdb
+*csproj.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+obj
+[Dd]ebug*
+*.lib
+*.sbr
+[Rr]elease*
+
+# Nunit
+!/packages/NUnit.ConsoleRunner.3.6.1/tools/*.exe
+
+# Project
+dist
+dotnet/ViewModels
+dotnet/FantastecGame/wwwroot/*
